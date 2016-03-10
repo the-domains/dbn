@@ -1,6 +1,6 @@
 name: David B Nelson
 favicon: null
-layout_spectrum: 0.75196
+layout_spectrum: 0
 typography_spectrum: 0.25346
 title: David B Nelson
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#f5f5f7'
+    - '#1e5082'
+    - '#4c91b0'
+    - '#95ced5'
+    - '#706959'
   brandStrength: 0.09033628040924668
   lightness: 0.7655388447456062
   saturation: 0.6178615365643054
